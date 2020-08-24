@@ -11,7 +11,7 @@ module.exports = {
   // social
   heading: 'Vietable',
   subHeading:
-    "A simple template for telling the world when you'll launch your next big thing.",
+    "Vietable: Deal with your problems",
   socialLinks: [
     {
       icon: 'fa-github',
@@ -26,7 +26,7 @@ module.exports = {
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://facebook.com/vietable',
+      url: 'https://facebook.com/vietable.com',
     },
     {
       icon: 'fa-envelope-o',
